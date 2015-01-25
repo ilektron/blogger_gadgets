@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="Social Media Icons" 
-     height="200"
-     author="Stephen Farnsworth"
-     author_email="junk@ilektronx.com"/>
+  <ModulePrefs title="test"/>
   <Content type="html">
-  <![CDATA[
-  <p>hello world</p>
-  ]]>
+    
   </Content>
 </Module>

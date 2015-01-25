@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Social Media Icons" />
+  <UserPref name="icons" displayName="List of Icons"/>
+  <UserPref name="links" displayName="List of Links"/>
+  <Content type="html">
+  <![CDATA[
+    <div class="widget-socialmediaicons" >
+      <div style="float:left"></div>
+    </div>
+  ]]>
+  </Content>
+</Module>
